@@ -3,7 +3,6 @@
 About me
 
 • 🔭Studying Implied Informatics as a 4th year, at University of Macedonia.
-
 • ⚡Working on personal & university projects.
 
 <!--
