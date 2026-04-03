@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, Name's Nikos
+
+#About me
+
+• 🔭Studying Implied Informatics as a 4th year, at University of Macedonia.
+• ⚡Working on personal & university projects.
 
 <!--
 **karagionikos/karagionikos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
