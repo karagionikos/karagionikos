@@ -2,7 +2,7 @@
 
 About me
 
-• 🔭Studying Applied Informatics as a 4th year, at University of Macedonia.
+• 🔭Studying Applied Informatics in Computer Science at the University of Macedonia.
 
 • ⚡Working on personal & university projects.
 
