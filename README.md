@@ -1,10 +1,10 @@
 ## Hi there 👋, Name's Nikos
-
-About me
-
-• 🔭Studying Applied Informatics in Computer Science at the University of Macedonia.
-
-• ⚡Working on personal & university projects.
+ 
+### About me
+- 🔭 Studying Applied Informatics in Computer Science at the University of Macedonia.
+- ⚡ Working on personal & university projects spanning web, desktop, and systems programming.
+- 🎨 I like clean, retro/skeuomorphic UI design — dark themes with accent colors.
+- 📫 Always interested in new software projects.
 
 <!--
 **karagionikos/karagionikos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
