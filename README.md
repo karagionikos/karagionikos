@@ -22,15 +22,10 @@ Here are some ideas to get you started:
 -->
 
 <!--<h1 align="center">Hi, I'm Nikos 👋</h1>-->
- 
-<p align="center">
-  <i>Computer Science student in Thessaloniki, building polished software end to end.</i>
-</p>
-<p align="center">
+<p align="left">
   <a href="https://karagionikos.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-open-1e2327?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/nikolaos-karageorgis"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-1e2327?style=for-the-badge" /></a>
 </p>
----
  
 ### About me
  
