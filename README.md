@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 ### Tech
 <p>
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=c,c++,c#,js,ts,react,electron,html,css,python,tensorflow,vite,nodejs,git&theme=dark" />
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=c,c++,js,ts,react,electron,html,css,python,tensorflow,vite,nodejs,git&theme=dark" />
 </p>
