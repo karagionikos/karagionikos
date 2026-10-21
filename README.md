@@ -1,6 +1,6 @@
 ## Hi there 👋, Name's Nikos
  
-### About me
+<!--### About me
 - 🔭 Studying Applied Informatics in Computer Science at the University of Macedonia.
 - ⚡ Working on personal & university projects spanning web, desktop, and systems programming.
 - 🎨 I like design, clean, retro/skeuomorphic UI design — dark themes with accent colors.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Nikos 👋</h1>
+<!--<h1 align="center">Hi, I'm Nikos 👋</h1>-->
  
 <p align="center">
   <i>Computer Science student in Thessaloniki, building polished software end to end.</i>
