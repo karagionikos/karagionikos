@@ -1,10 +1,4 @@
 ## Hi there 👋, Name's Nikos
- 
-<!--### About me
-- 🔭 Studying Applied Informatics in Computer Science at the University of Macedonia.
-- ⚡ Working on personal & university projects spanning web, desktop, and systems programming.
-- 🎨 I like design, clean, retro/skeuomorphic UI design — dark themes with accent colors.
-- 📫 Always interested in new software projects.
 
 <!--
 **karagionikos/karagionikos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--<h1 align="center">Hi, I'm Nikos 👋</h1>-->
+<p align="center">
+  <a href="https://karagionikos.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-open-ff8c1a?style=for-the-badge&labelColor=1e2327" /></a>
+  <a href="https://www.linkedin.com/in/nikolaos-karageorgis"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-e8590c?style=for-the-badge&labelColor=1e2327" /></a>
+</p>
 <p align="left">
   <a href="https://karagionikos.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-open-1e2327?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/nikolaos-karageorgis"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-1e2327?style=for-the-badge" /></a>
@@ -29,11 +25,16 @@ Here are some ideas to get you started:
  
 ### About me
 - 🎓 Studying Applied Informatics (Computer Science) at the **University of Macedonia**, Thessaloniki
-- 🛠️ Building web tools, desktop apps and systems programs, plus machine learning coursework
+- 🛠️ Building web tools, desktop apps, and systems programs, plus machine learning coursework
 - 🎨 I care about design: clean, retro/skeuomorphic UI, dark themes with accent colors
 - 💼 Always up for new software projects
 
 ### Tech
 <p>
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=c,c++,js,ts,react,electron,html,css,python,tensorflow,vite,nodejs,git&theme=dark" />
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=c,js,ts,react,electron,html,css,python,tensorflow,vite,nodejs,git&theme=dark" />
+</p>
+
+### Activity
+<p>
+  <img alt="Contribution graph" width="600" src="https://ghchart.rshah.org/ff8c1a/karagionikos" />
 </p>
