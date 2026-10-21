@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+
+<p align="left">
   <a href="https://karagionikos.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-open-ff8c1a?style=for-the-badge&labelColor=1e2327" /></a>
   <a href="https://www.linkedin.com/in/nikolaos-karageorgis"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-e8590c?style=for-the-badge&labelColor=1e2327" /></a>
-</p>
-<p align="left">
-  <a href="https://karagionikos.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-open-1e2327?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/nikolaos-karageorgis"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-1e2327?style=for-the-badge" /></a>
 </p>
  
 ### About me
@@ -36,5 +33,5 @@ Here are some ideas to get you started:
 
 ### Activity
 <p>
-  <img alt="Contribution graph" width="600" src="https://ghchart.rshah.org/ff8c1a/karagionikos" />
+  <img alt="Contribution graph" width="500" src="https://ghchart.rshah.org/ff8c1a/karagionikos" />
 </p>
