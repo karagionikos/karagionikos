@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🎨 I care about design: clean, minimalistic, retro/skeuomorphic UI, dark themes with accent colors
 - 💼 Always up for new software projects
 
-### Tech
+<!--### Tech
 <p>
   <img alt="Tech stack" src="https://skillicons.dev/icons?i=c,js,ts,react,electron,html,css,python,tensorflow,vite,nodejs,git&theme=dark" />
 </p>
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ### Activity
 <p>
   <img alt="Contribution graph" width="600" src="https://ghchart.rshah.org/ff8c1a/karagionikos" />
-</p>
+</p>-->
