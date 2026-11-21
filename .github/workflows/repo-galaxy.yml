@@ -1,0 +1,42 @@
+name: Repo Galaxy
+
+on:
+  schedule:
+    - cron: "17 4 * * 1"   # every Monday, 04:17 UTC
+  workflow_dispatch:        # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "galaxy/**"
+      - ".github/workflows/repo-galaxy.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate SVGs
+        run: python galaxy/generate.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GALAXY_USER: ${{ github.repository_owner }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/repo-galaxy-dark.svg assets/repo-galaxy-light.svg
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: refresh repo galaxy"
+            git push
+          fi

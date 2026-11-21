@@ -1,28 +1,13 @@
-## Hi there 👋, Name's Nikos
-<!--
-**karagionikos/karagionikos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://karagionikos.github.io/Portfolio/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/repo-galaxy-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/repo-galaxy-light.svg">
+    <img alt="Hi there, Name's Nikos. Studying Applied Informatics in Computer Science at the University of Macedonia, Thessaloniki. Building web tools, desktop apps, systems programs, pipelines, plus machine learning coursework. Repo galaxy: each star is one of my repositories." src="./assets/repo-galaxy-dark.svg" width="100%">
+  </picture>
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="left">
-  <a href="https://www.linkedin.com/in/nikolaos-karageorgis"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-e8590c?style=for-the-badge&labelColor=1e2327"/></a>
-  <a href="https://karagionikos.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-open-ff8c1a?style=for-the-badge&labelColor=1e2327"/></a>
-</p>
- 
-### About me
-- 🎓 Studying Applied Informatics in Computer Science at the **University of Macedonia**, Thessaloniki
-- 🛠️ Building web tools, desktop apps, systems programs, pipelines, plus machine learning coursework
-- 🎨 I care about design: clean, minimalistic, retro/skeuomorphic UI, dark themes with accent colors
-- 💼 Always up for new software projects
+<!-- The card is regenerated every Monday by .github/workflows/repo-galaxy.yml.
+     Edit the text and links in galaxy/config.json. -->
 
 <!--### Tech
 <p>
