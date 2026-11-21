@@ -1,4 +1,4 @@
-<a href="https://karagionikos.github.io/Portfolio/">
+<a href="#">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/repo-galaxy-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/repo-galaxy-light.svg">
