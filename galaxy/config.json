@@ -45,5 +45,5 @@
   "animate": true,
   "spin": true,
   "spin_frames": 36,
-  "spin_frame_seconds": 0.8
+  "spin_frame_seconds": 0.5
 }
