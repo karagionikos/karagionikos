@@ -1,0 +1,46 @@
+{
+  "username": "karagionikos",
+  "eyebrow": "",
+  "title": "Hi there 👋, Name's Nikos",
+  "about_heading": "ABOUT ME",
+  "about": [
+    {
+      "icon": "🎓",
+      "text": "Studying Applied Informatics in Computer Science at the **University of Macedonia**, Thessaloniki"
+    },
+    {
+      "icon": "🛠️",
+      "text": "Building web tools, desktop apps, systems programs, pipelines, plus machine learning coursework"
+    },
+    {
+      "icon": "🎨",
+      "text": "I care about design: clean, minimalistic, retro/skeuomorphic UI, dark themes with accent colors"
+    },
+    {
+      "icon": "💼",
+      "text": "Always up for new software projects"
+    }
+  ],
+  "links": [
+    {
+      "label": "LINKEDIN",
+      "value": "CONNECT",
+      "color": "#e8590c",
+      "url": "https://www.linkedin.com/in/nikolaos-karageorgis"
+    },
+    {
+      "label": "PORTFOLIO",
+      "value": "OPEN",
+      "color": "#ff8c1a",
+      "url": "https://karagionikos.github.io/Portfolio/"
+    }
+  ],
+  "show_link_chips": false,
+  "max_repos": 10,
+  "exclude_forks": true,
+  "exclude_archived": false,
+  "exclude_repos": [
+    "karagionikos"
+  ],
+  "animate": true
+}
